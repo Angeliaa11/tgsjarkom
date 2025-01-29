@@ -7,12 +7,18 @@ Nim : 09030282327020
 
 2. Hasil Percobaan
 ![Image](https://github.com/user-attachments/assets/da58b723-f770-46a8-8821-7b0d17b749b3)
+
+***KABEL STRAIGHT***
 Alat dan Bahan:
 
 Kabel UTP.
+
 Konektor RJ-45 (dua buah).
+
 Crimping tool (alat penjepit konektor).
+
 Cable stripper (alat untuk mengupas kulit kabel) atau cutter.
+
 LAN tester (untuk memastikan koneksi berhasil).
 
 **Langkah-Langkah:**
@@ -20,6 +26,7 @@ LAN tester (untuk memastikan koneksi berhasil).
 • Potong kabel UTP sesuai panjang yang dibutuhkan menggunakan crimping tool.
 Kupas bagian luar kabel sekitar 2-3 cm untuk mengekspos pasangan kabel di dalamnya.
 lalu urutkan kabel sesusai warna yaitu :
+
 Orange putih
 Orange
 Hijau putih
@@ -33,6 +40,8 @@ Cokelat
 • jika sudah benar Masukkan kabel yang telah diurutkan ke dalam konektor RJ-45 hingga setiap kabel menyentuh pin logam di dalam konektor, Pastikan urutannya tetap sesuai dan konektor terpasang dengan benar. lalu gunakan crimping tool untuk menjepit konektor RJ-45 hingga kabel terkunci dengan baik.
 • Lakukan langkah yang sama untuk ujung kabel lainnya, dengan urutan warna yang sama.
 • setelah semuanya selesain lakukan uji coba dengan cara Sambungkan kedua ujung kabel ke LAN tester untuk memastikan bahwa koneksi antar pin bekerja dengan benar (semua lampu menyala sesuai urutan).
+
+
 Kabel Crossover
 
 • Alat dan bahan serta Langkah-Langkah Pembuatan Kabel Crossover sebenarnya hampir sama
