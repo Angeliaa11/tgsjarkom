@@ -72,7 +72,7 @@ Kabel Crossover
 - Cokelat putih
 
 - Cokelat
-- 
+  
 • Pada Ujung kedua :
 
  - Hijau putih
@@ -101,11 +101,13 @@ jika sudah benar, Kabel Crossover siap digunakan.
 
 **Analisis percobaan**
 
-Kabel Lurus:
+Kabel Straight:
 
 Digunakan untuk menghubungkan perangkat berbeda jenis (misalnya, komputer ke switch atau router ke modem).
 Pengujian menunjukkan bahwa perangkat dapat berkomunikasi tanpa masalah menggunakan kabel straight.
+
 Kabel Crossover:
+
 Digunakan untuk menghubungkan perangkat sejenis (misalnya, komputer ke komputer atau switch ke switch).
 Pengujian menunjukkan bahwa kabel crossover memungkinkan dua komputer berkomunikasi secara langsung tanpa perangkat perantara.
 
