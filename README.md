@@ -9,6 +9,8 @@ Nim : 09030282327020
 ![Image](https://github.com/user-attachments/assets/da58b723-f770-46a8-8821-7b0d17b749b3)
 
 ***KABEL STRAIGHT***
+
+
 Alat dan Bahan:
 
 Kabel UTP.
