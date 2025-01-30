@@ -6,9 +6,27 @@ Nim : 09030282327020
 
 1. Judul Percobaan : Pembuatan dan Pengujian Kabel Straight dan Crossover Menggunakan Kabel UTP
 
-2. Hasil Percobaan
-![Image](https://github.com/user-attachments/assets/da58b723-f770-46a8-8821-7b0d17b749b3)
+2. Alat dan Bahan
+3. ***langkah-langkah dalam pembuatan kabel straight***
+   Potong kabel UTP sesuai panjang yang dibutuhkan menggunakan crimping tool.
+   Kupas bagian luar kabel sekitar 2-3 cm untuk mengekspos pasangan kabel di dalamnya.
+![Image](https://github.com/user-attachments/assets/88287805-c2dd-45c7-8328-9e51b34f2334)
 
+![Image](https://github.com/user-attachments/assets/0b26e7ab-d3bb-41d4-aa70-db7dbd7137dd)
+
+![Image](https://github.com/user-attachments/assets/2aad46bc-5adf-4cf5-982d-26b5a96bf080)
+   lalu urutkan kabel sesusai warna
+![Image](https://github.com/user-attachments/assets/c5715170-9ab4-44f3-943f-5ec3575d4612)
+
+![Image](https://github.com/user-attachments/assets/23987481-06aa-4df8-aa66-f58358362b59)
+
+![Image](https://github.com/user-attachments/assets/4f4e9610-bf1c-400b-b1b9-abb592028131)
+
+![Image](https://github.com/user-attachments/assets/215f998f-0ddb-4a9b-ae4b-edde1a236aeb)
+
+![Image](https://github.com/user-attachments/assets/17251f20-da31-4c6b-a944-f37b20451d79)
+
+![Image](https://github.com/user-attachments/assets/b7b2dc7d-39fb-40bb-a87c-f2064025bd12)
 ***KABEL STRAIGHT***
 
 
@@ -26,8 +44,7 @@ LAN tester (untuk memastikan koneksi berhasil).
 
 **Langkah-Langkah:**
 
-• Potong kabel UTP sesuai panjang yang dibutuhkan menggunakan crimping tool.
-Kupas bagian luar kabel sekitar 2-3 cm untuk mengekspos pasangan kabel di dalamnya.
+
 lalu urutkan kabel sesusai warna yaitu :
 
 -Orange putih
