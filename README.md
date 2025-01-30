@@ -34,7 +34,9 @@ pisahkan warna kabel,  hingga menjadi 8 bagian.
 ![Image](https://github.com/user-attachments/assets/23987481-06aa-4df8-aa66-f58358362b59)
 
 lalu urutkan kabel sesusai warna
-   
+
+![Image](https://github.com/user-attachments/assets/7a59b4be-6401-4bf0-9ed4-1c40502a0235)
+
 ![Image](https://github.com/user-attachments/assets/c5715170-9ab4-44f3-943f-5ec3575d4612)
 
 ![Image](https://github.com/user-attachments/assets/4f4e9610-bf1c-400b-b1b9-abb592028131)
