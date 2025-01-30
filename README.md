@@ -26,7 +26,7 @@ Nim : 09030282327020
 
 ![Image](https://github.com/user-attachments/assets/0b26e7ab-d3bb-41d4-aa70-db7dbd7137dd)
 
-![Image](https://github.com/user-attachments/assets/215f998f-0ddb-4a9b-ae4b-edde1a236aeb)
+![Image](https://github.com/user-attachments/assets/c5715170-9ab4-44f3-943f-5ec3575d4612)
 
   
 pisahkan warna kabel,  hingga menjadi 8 bagian. 
