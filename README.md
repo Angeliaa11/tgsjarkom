@@ -4,9 +4,9 @@ Kelas : TK4C
 
 Nim : 09030282327020
 
-1. Judul Percobaan : Pembuatan dan Pengujian Kabel Straight-Through dan Crossover Menggunakan Kabel UTP
+***1. Judul Percobaan : Pembuatan dan Pengujian Kabel Straight-Through dan Crossover Menggunakan Kabel UTP***
 
-2. Alat dan Bahan
+***2. Alat dan Bahan***
    
    • Kabel UTP.
    
@@ -26,7 +26,7 @@ Nim : 09030282327020
    
    ![Image](https://github.com/user-attachments/assets/bf1f58cd-fb8b-419a-9c48-cde99f3103fe)
    
-4. ***langkah-langkah dalam pembuatan kabel straight-Through***
+***4.langkah-langkah dalam pembuatan kabel straight-Through***
    
 • Potong kabel UTP sesuai panjang yang dibutuhkan menggunakan crimping tool.
   Kupas bagian luar kabel sekitar 2-3 cm untuk mengekspos pasangan kabel di dalamnya.
@@ -81,7 +81,7 @@ Pada kabel **Straight-Through**, urutan kabel yang digunakan di kedua ujung kabe
 
 
 
-*** Langkah-Langkah Pembuatan Kabel Crossover***
+***5.Langkah-Langkah Pembuatan Kabel Crossover***
 
 • Potong dan kupas kabel seperti pada kabel straight-through.
 
@@ -122,7 +122,7 @@ urutan kabel untuk masing-masing ujung:
 •Gunakan crimping tool untuk menjepit konektor RJ-45 hingga kabel terkunci dengan baik.
 
 • lakukan uji coba kabel dengan lan tester pastikan lampu menyala sesuai urutan crossover.
-
+ ![Image](https://github.com/user-attachments/assets/bf1f58cd-fb8b-419a-9c48-cde99f3103fe)
 
 **Analisis percobaan**
 
