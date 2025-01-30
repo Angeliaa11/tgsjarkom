@@ -43,9 +43,9 @@ lalu urutkan kabel sesusai warna
 
 jika sudah benar Masukkan kabel yang telah diurutkan ke dalam konektor RJ-45 hingga setiap kabel menyentuh pin logam di dalam konektor, Pastikan urutannya tetap sesuai dan konektor terpasang dengan benar. lalu gunakan crimping tool untuk menjepit konektor RJ-45 hingga kabel terkunci dengan baik.
 
-![Image](https://github.com/user-attachments/assets/7a59b4be-6401-4bf0-9ed4-1c40502a0235)
-
 ![Image](https://github.com/user-attachments/assets/17251f20-da31-4c6b-a944-f37b20451d79)
+
+
 
 ![Image](https://github.com/user-attachments/assets/7b36e62a-2f5e-4674-89e8-c01ac839f875)
 
@@ -70,7 +70,7 @@ Pada kabel **Straight-Through**, urutan kabel yang digunakan di kedua ujung kabe
 
 
 
-• jika sudah benar Masukkan kabel yang telah diurutkan ke dalam konektor RJ-45 hingga setiap kabel menyentuh pin logam di dalam konektor, Pastikan urutannya tetap sesuai dan konektor terpasang dengan benar. lalu gunakan crimping tool untuk menjepit konektor RJ-45 hingga kabel terkunci dengan baik.
+
 • Lakukan langkah yang sama untuk ujung kabel lainnya, dengan urutan warna yang sama.
 • setelah semuanya selesain lakukan uji coba dengan cara Sambungkan kedua ujung kabel ke LAN tester untuk memastikan bahwa koneksi antar pin bekerja dengan benar (semua lampu menyala sesuai urutan).
 
