@@ -11,7 +11,7 @@ Nim : 09030282327020
    • Kabel UTP.
  
    • Konektor RJ-45 (dua buah).
-
+   
    • Crimping tool (alat penjepit konektor).
 
    • Cable stripper (alat untuk mengupas kulit kabel) atau cutter.
