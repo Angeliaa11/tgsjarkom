@@ -4,10 +4,21 @@ Kelas : TK4C
 
 Nim : 09030282327020
 
-1. Judul Percobaan : Pembuatan dan Pengujian Kabel Straight dan Crossover Menggunakan Kabel UTP
+1. Judul Percobaan : Pembuatan dan Pengujian Kabel Straight-Through dan Crossover Menggunakan Kabel UTP
 
 2. Alat dan Bahan
-3. ***langkah-langkah dalam pembuatan kabel straight***
+   • Kabel UTP.
+ 
+   • Konektor RJ-45 (dua buah).
+
+   • Crimping tool (alat penjepit konektor).
+
+   • Cable stripper (alat untuk mengupas kulit kabel) atau cutter.
+
+   • LAN tester (untuk memastikan koneksi berhasil).
+   
+4. ***langkah-langkah dalam pembuatan kabel straight-Through***
+   
    Potong kabel UTP sesuai panjang yang dibutuhkan menggunakan crimping tool.
    Kupas bagian luar kabel sekitar 2-3 cm untuk mengekspos pasangan kabel di dalamnya.
 ![Image](https://github.com/user-attachments/assets/88287805-c2dd-45c7-8328-9e51b34f2334)
@@ -26,42 +37,25 @@ Nim : 09030282327020
 
 ![Image](https://github.com/user-attachments/assets/17251f20-da31-4c6b-a944-f37b20451d79)
 
-![Image](https://github.com/user-attachments/assets/b7b2dc7d-39fb-40bb-a87c-f2064025bd12)
-***KABEL STRAIGHT***
 
 
-Alat dan Bahan:
-
-Kabel UTP.
-
-Konektor RJ-45 (dua buah).
-
-Crimping tool (alat penjepit konektor).
-
-Cable stripper (alat untuk mengupas kulit kabel) atau cutter.
-
-LAN tester (untuk memastikan koneksi berhasil).
-
-**Langkah-Langkah:**
+Berikut adalah urutan kabel untuk kabel UTP jenis **Straight-Through** dan **Crossover**.
+Urutan Kabel untuk Kabel Straight-Through
+Pada kabel **Straight-Through**, urutan kabel yang digunakan di kedua ujung kabel adalah sama. Berikut adalah urutan warna kabel berdasarkan standar **T568B**:
 
 
-lalu urutkan kabel sesusai warna yaitu :
+| Pin | Warna Kabel          |
+|-----|----------------------|
+| 1   | Putih-Oranye         |
+| 2   | Oranye               |
+| 3   | Putih-Hijau          |
+| 4   | Biru                 |
+| 5   | Putih-Biru           |
+| 6   | Hijau                |
+| 7   | Putih-Coklat         |
+| 8   | Coklat               |
 
--Orange putih
 
--Orange
-
--Hijau putih
-
--Biru
-
--Biru putih
-
--Hijau
-
--Cokelat putih
-
--Cokelat
 
 • Potong kabel agar rata, Pastikan semua kabel memiliki panjang yang sama menggunakan crimping tool.
 • jika sudah benar Masukkan kabel yang telah diurutkan ke dalam konektor RJ-45 hingga setiap kabel menyentuh pin logam di dalam konektor, Pastikan urutannya tetap sesuai dan konektor terpasang dengan benar. lalu gunakan crimping tool untuk menjepit konektor RJ-45 hingga kabel terkunci dengan baik.
