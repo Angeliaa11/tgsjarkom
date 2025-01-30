@@ -7,6 +7,7 @@ Nim : 09030282327020
 1. Judul Percobaan : Pembuatan dan Pengujian Kabel Straight-Through dan Crossover Menggunakan Kabel UTP
 
 2. Alat dan Bahan
+   
    • Kabel UTP.
  
    • Konektor RJ-45 (dua buah).
@@ -26,7 +27,9 @@ Nim : 09030282327020
 ![Image](https://github.com/user-attachments/assets/0b26e7ab-d3bb-41d4-aa70-db7dbd7137dd)
 
 ![Image](https://github.com/user-attachments/assets/2aad46bc-5adf-4cf5-982d-26b5a96bf080)
+
    lalu urutkan kabel sesusai warna
+   
 ![Image](https://github.com/user-attachments/assets/c5715170-9ab4-44f3-943f-5ec3575d4612)
 
 ![Image](https://github.com/user-attachments/assets/23987481-06aa-4df8-aa66-f58358362b59)
@@ -36,6 +39,8 @@ Nim : 09030282327020
 ![Image](https://github.com/user-attachments/assets/215f998f-0ddb-4a9b-ae4b-edde1a236aeb)
 
 ![Image](https://github.com/user-attachments/assets/17251f20-da31-4c6b-a944-f37b20451d79)
+
+![Image](https://github.com/user-attachments/assets/7b36e62a-2f5e-4674-89e8-c01ac839f875)
 
 
 
@@ -57,7 +62,7 @@ Pada kabel **Straight-Through**, urutan kabel yang digunakan di kedua ujung kabe
 
 
 
-• Potong kabel agar rata, Pastikan semua kabel memiliki panjang yang sama menggunakan crimping tool.
+
 • jika sudah benar Masukkan kabel yang telah diurutkan ke dalam konektor RJ-45 hingga setiap kabel menyentuh pin logam di dalam konektor, Pastikan urutannya tetap sesuai dan konektor terpasang dengan benar. lalu gunakan crimping tool untuk menjepit konektor RJ-45 hingga kabel terkunci dengan baik.
 • Lakukan langkah yang sama untuk ujung kabel lainnya, dengan urutan warna yang sama.
 • setelah semuanya selesain lakukan uji coba dengan cara Sambungkan kedua ujung kabel ke LAN tester untuk memastikan bahwa koneksi antar pin bekerja dengan benar (semua lampu menyala sesuai urutan).
