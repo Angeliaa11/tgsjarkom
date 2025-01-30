@@ -26,7 +26,7 @@ Nim : 09030282327020
 
 ![Image](https://github.com/user-attachments/assets/0b26e7ab-d3bb-41d4-aa70-db7dbd7137dd)
 
-![Image](https://github.com/user-attachments/assets/2aad46bc-5adf-4cf5-982d-26b5a96bf080)
+
 
    lalu urutkan kabel sesusai warna
    
