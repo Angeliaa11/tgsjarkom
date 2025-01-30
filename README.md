@@ -52,8 +52,11 @@ Nim : 09030282327020
 ![Image](https://github.com/user-attachments/assets/7a59b4be-6401-4bf0-9ed4-1c40502a0235)
 
 
-• jika sudah benar Masukkan kabel yang telah diurutkan ke dalam konektor RJ-45 hingga setiap kabel menyentuh pin logam di dalam konektor, Pastikan urutannya tetap sesuai dan konektor terpasang dengan benar. lalu gunakan crimping tool untuk menjepit konektor RJ-45 hingga kabel terkunci dengan baik.
-• Lakukan langkah yang sama untuk ujung kabel lainnya, dengan urutan warna yang sama.
+• jika sudah benar Masukkan kabel yang telah diurutkan ke dalam konektor RJ-45 hingga setiap kabel menyentuh pin logam di dalam konektor, Pastikan urutannya tetap sesuai dan konektor terpasang dengan benar.
+![Image](https://github.com/user-attachments/assets/71a5af92-e5ae-4f8c-ba7e-4b46aa8bc727)
+
+• lalu gunakan crimping tool untuk menjepit konektor RJ-45 hingga kabel terkunci dengan baik.
+  Lakukan langkah yang sama untuk ujung kabel lainnya, dengan urutan warna yang sama.
 
 ![Image](https://github.com/user-attachments/assets/17251f20-da31-4c6b-a944-f37b20451d79)
 
