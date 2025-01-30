@@ -39,7 +39,9 @@ lalu urutkan kabel sesusai warna
 
 ![Image](https://github.com/user-attachments/assets/4f4e9610-bf1c-400b-b1b9-abb592028131)
 
+jika sudah benar Masukkan kabel yang telah diurutkan ke dalam konektor RJ-45 hingga setiap kabel menyentuh pin logam di dalam konektor, Pastikan urutannya tetap sesuai dan konektor terpasang dengan benar. lalu gunakan crimping tool untuk menjepit konektor RJ-45 hingga kabel terkunci dengan baik.
 
+![Image](https://github.com/user-attachments/assets/7a59b4be-6401-4bf0-9ed4-1c40502a0235)
 
 ![Image](https://github.com/user-attachments/assets/17251f20-da31-4c6b-a944-f37b20451d79)
 
