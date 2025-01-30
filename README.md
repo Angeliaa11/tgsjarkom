@@ -20,8 +20,8 @@ Nim : 09030282327020
    
 4. ***langkah-langkah dalam pembuatan kabel straight-Through***
    
-   Potong kabel UTP sesuai panjang yang dibutuhkan menggunakan crimping tool.
-   Kupas bagian luar kabel sekitar 2-3 cm untuk mengekspos pasangan kabel di dalamnya.
+• Potong kabel UTP sesuai panjang yang dibutuhkan menggunakan crimping tool.
+  Kupas bagian luar kabel sekitar 2-3 cm untuk mengekspos pasangan kabel di dalamnya.
 ![Image](https://github.com/user-attachments/assets/88287805-c2dd-45c7-8328-9e51b34f2334)
 
 ![Image](https://github.com/user-attachments/assets/0b26e7ab-d3bb-41d4-aa70-db7dbd7137dd)
@@ -29,27 +29,29 @@ Nim : 09030282327020
 ![Image](https://github.com/user-attachments/assets/c5715170-9ab4-44f3-943f-5ec3575d4612)
 
   
-pisahkan warna kabel,  hingga menjadi 8 bagian. 
-
-![Image](https://github.com/user-attachments/assets/23987481-06aa-4df8-aa66-f58358362b59)
-
-lalu urutkan kabel sesusai warna
-
-![Image](https://github.com/user-attachments/assets/7a59b4be-6401-4bf0-9ed4-1c40502a0235)
+• pisahkan warna kabel,  hingga menjadi 8 bagian. 
 
 ![Image](https://github.com/user-attachments/assets/c5715170-9ab4-44f3-943f-5ec3575d4612)
 
+![Image](https://github.com/user-attachments/assets/23987481-06aa-4df8-aa66-f58358362b59)
+
+• lalu urutkan kabel sesusai warna
+
 ![Image](https://github.com/user-attachments/assets/4f4e9610-bf1c-400b-b1b9-abb592028131)
 
-jika sudah benar Masukkan kabel yang telah diurutkan ke dalam konektor RJ-45 hingga setiap kabel menyentuh pin logam di dalam konektor, Pastikan urutannya tetap sesuai dan konektor terpasang dengan benar. lalu gunakan crimping tool untuk menjepit konektor RJ-45 hingga kabel terkunci dengan baik.
+• setelah itu potong kabel
+
+![Image](https://github.com/user-attachments/assets/7a59b4be-6401-4bf0-9ed4-1c40502a0235)
+
+
+• jika sudah benar Masukkan kabel yang telah diurutkan ke dalam konektor RJ-45 hingga setiap kabel menyentuh pin logam di dalam konektor, Pastikan urutannya tetap sesuai dan konektor terpasang dengan benar. lalu gunakan crimping tool untuk menjepit konektor RJ-45 hingga kabel terkunci dengan baik.
+• Lakukan langkah yang sama untuk ujung kabel lainnya, dengan urutan warna yang sama.
 
 ![Image](https://github.com/user-attachments/assets/17251f20-da31-4c6b-a944-f37b20451d79)
 
-
-
 ![Image](https://github.com/user-attachments/assets/7b36e62a-2f5e-4674-89e8-c01ac839f875)
 
-
+• setelah semuanya selesain lakukan uji coba dengan cara Sambungkan kedua ujung kabel ke LAN tester untuk memastikan bahwa koneksi antar pin bekerja dengan benar (semua lampu menyala sesuai urutan).
 
 Berikut adalah urutan kabel untuk kabel UTP jenis **Straight-Through** dan **Crossover**.
 Urutan Kabel untuk Kabel Straight-Through
@@ -69,18 +71,11 @@ Pada kabel **Straight-Through**, urutan kabel yang digunakan di kedua ujung kabe
 
 
 
+*** Langkah-Langkah Pembuatan Kabel Crossover***
 
+• Potong dan kupas kabel seperti pada kabel straight-through.
 
-• Lakukan langkah yang sama untuk ujung kabel lainnya, dengan urutan warna yang sama.
-• setelah semuanya selesain lakukan uji coba dengan cara Sambungkan kedua ujung kabel ke LAN tester untuk memastikan bahwa koneksi antar pin bekerja dengan benar (semua lampu menyala sesuai urutan).
-
-
-Kabel Crossover
-
-• Alat dan bahan serta Langkah-Langkah Pembuatan Kabel Crossover sebenarnya hampir sama
-  dengan pembuatan KABEL STRAIGHT yg diatas yang membekan hanya urutan warna kabelnya yaitu
-
-• Pada ujung pertama: 
+• Untuk ujung pertama, gunakan urutan warna T568A, untuk ujung kedua gunakan T568B. 
 
 - Oranye
 
