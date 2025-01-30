@@ -61,6 +61,8 @@ Nim : 09030282327020
 
 • setelah semuanya selesain lakukan uji coba dengan cara Sambungkan kedua ujung kabel ke LAN tester untuk memastikan bahwa koneksi antar pin bekerja dengan benar (semua lampu menyala sesuai urutan).
 
+![Image](https://github.com/user-attachments/assets/9f23e702-6a4e-4f08-8a65-5942f74481f6)
+
 Berikut adalah urutan kabel untuk kabel UTP jenis **Straight-Through** dan **Crossover**.
 Urutan Kabel untuk Kabel Straight-Through
 Pada kabel **Straight-Through**, urutan kabel yang digunakan di kedua ujung kabel adalah sama. Berikut adalah urutan warna kabel berdasarkan standar **T568B**:
@@ -85,45 +87,42 @@ Pada kabel **Straight-Through**, urutan kabel yang digunakan di kedua ujung kabe
 
 • Untuk ujung pertama, gunakan urutan warna T568A, untuk ujung kedua gunakan T568B. 
 
-- Oranye
+• Crimping konektor di kedua ujung. Pada kabel Crossover, urutan kabel pada satu ujung menggunakan standar T568A dan ujung lainnya menggunakan standar T568B. Berikut adalah 
+urutan kabel untuk masing-masing ujung:
 
-- Hijau putih
+**Ujung 1 (T568A):**
 
-- Biru
+| Pin | Warna Kabel          |
+|-----|----------------------|
+| 1   | Putih-Hijau          |
+| 2   | Hijau                |
+| 3   | Putih-Oranye         |
+| 4   | Biru                 |
+| 5   | Putih-Biru           |
+| 6   | Oranye               |
+| 7   | Putih-Coklat         |
+| 8   | Coklat               |
 
-- Biru putih
+**Ujung 2 (T568B):**
 
-- Hijau
-
-- Cokelat putih
-
-- Cokelat
-  
-• Pada Ujung kedua :
-
- - Hijau putih
-
-- Hijau
-
-- Oranye putih
-
-- Biru
-
-- Biru putih
-
-- Oranye
-
-- Cokelat putih
-
-- Cokelat
+| Pin | Warna Kabel          |
+|-----|----------------------|
+| 1   | Putih-Oranye         |
+| 2   | Oranye               |
+| 3   | Putih-Hijau          |
+| 4   | Biru                 |
+| 5   | Putih-Biru           |
+| 6   | Hijau                |
+| 7   | Putih-Coklat         |
+| 8   | Coklat               |
 
 • Setelah kamu mengikutkan warna kabel dengn benar, kemudian Masukkan ujung kabel yang telah diurutkan ke dalam konektor RJ-45 hingga setiap kabel menyentuh pin logam di 
   dalam konektor. kemudian jepit konektor RJ-45: 
 
 •Gunakan crimping tool untuk menjepit konektor RJ-45 hingga kabel terkunci dengan baik.
 
-• lakukan uji coba kabel dengan lan tester pstika lampu menyala sesuai urutan crossover.
-jika sudah benar, Kabel Crossover siap digunakan.
+• lakukan uji coba kabel dengan lan tester pastikan lampu menyala sesuai urutan crossover.
+
 
 **Analisis percobaan**
 
