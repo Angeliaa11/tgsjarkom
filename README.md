@@ -9,14 +9,10 @@ Nim : 09030282327020
 2. Alat dan Bahan
    
    • Kabel UTP.
+   
    ![Image](https://github.com/user-attachments/assets/315ec7c7-a8e8-4d3e-bf9e-b5f29ec7668f)
 
-![Image](https://github.com/user-attachments/assets/a414568b-68bd-41a9-87d3-4e32ae48bf15)
 
-![Image](https://github.com/user-attachments/assets/532751ea-d305-4f51-a9e7-924567eb10fa)
-
-![Image](https://github.com/user-attachments/assets/bf1f58cd-fb8b-419a-9c48-cde99f3103fe)
- 
    • Konektor RJ-45 (dua buah).
    
    ![Image](https://github.com/user-attachments/assets/a414568b-68bd-41a9-87d3-4e32ae48bf15)
