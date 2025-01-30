@@ -26,17 +26,20 @@ Nim : 09030282327020
 
 ![Image](https://github.com/user-attachments/assets/0b26e7ab-d3bb-41d4-aa70-db7dbd7137dd)
 
+![Image](https://github.com/user-attachments/assets/215f998f-0ddb-4a9b-ae4b-edde1a236aeb)
 
-
-   lalu urutkan kabel sesusai warna
-   
-![Image](https://github.com/user-attachments/assets/c5715170-9ab4-44f3-943f-5ec3575d4612)
+  
+pisahkan warna kabel,  hingga menjadi 8 bagian. 
 
 ![Image](https://github.com/user-attachments/assets/23987481-06aa-4df8-aa66-f58358362b59)
 
+lalu urutkan kabel sesusai warna
+   
+![Image](https://github.com/user-attachments/assets/c5715170-9ab4-44f3-943f-5ec3575d4612)
+
 ![Image](https://github.com/user-attachments/assets/4f4e9610-bf1c-400b-b1b9-abb592028131)
 
-![Image](https://github.com/user-attachments/assets/215f998f-0ddb-4a9b-ae4b-edde1a236aeb)
+
 
 ![Image](https://github.com/user-attachments/assets/17251f20-da31-4c6b-a944-f37b20451d79)
 
